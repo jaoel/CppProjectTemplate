@@ -1,0 +1,9 @@
+{
+    "name": "sample-project",
+    "version-string": "0.1.0",
+    "dependencies": [
+      "glfw3",
+      "gtest"
+    ],
+    "builtin-baseline": "7f59e0013648f0dd80377330b770b414032233cb"
+  }
